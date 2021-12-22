@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.6228717b.chunk.css",
-    "main.js": "/static/js/main.9c94d37f.chunk.js",
-    "main.js.map": "/static/js/main.9c94d37f.chunk.js.map",
+    "main.css": "/static/css/main.0bf474dd.chunk.css",
+    "main.js": "/static/js/main.6408e189.chunk.js",
+    "main.js.map": "/static/js/main.6408e189.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6da9daa8.js",
     "runtime-main.js.map": "/static/js/runtime-main.6da9daa8.js.map",
     "static/css/2.f2512455.chunk.css": "/static/css/2.f2512455.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.7e789b6f.chunk.js.map": "/static/js/2.7e789b6f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f2512455.chunk.css.map": "/static/css/2.f2512455.chunk.css.map",
-    "static/css/main.6228717b.chunk.css.map": "/static/css/main.6228717b.chunk.css.map",
+    "static/css/main.0bf474dd.chunk.css.map": "/static/css/main.0bf474dd.chunk.css.map",
     "static/js/2.7e789b6f.chunk.js.LICENSE.txt": "/static/js/2.7e789b6f.chunk.js.LICENSE.txt",
     "static/media/1.0fa6b5fb.png": "/static/media/1.0fa6b5fb.png",
     "static/media/Tabla3Imagen1.42afd586.png": "/static/media/Tabla3Imagen1.42afd586.png",
@@ -18,6 +18,7 @@
     "static/media/Tabla9Imagen1.426fa92e.png": "/static/media/Tabla9Imagen1.426fa92e.png",
     "static/media/formulaLarga2.10beab50.png": "/static/media/formulaLarga2.10beab50.png",
     "static/media/grafica1PuntoEquilibrio.93cb4cda.png": "/static/media/grafica1PuntoEquilibrio.93cb4cda.png",
+    "static/media/practica.f3d88b5e.pdf": "/static/media/practica.f3d88b5e.pdf",
     "static/media/puntoA.4f1ad4ab.png": "/static/media/puntoA.4f1ad4ab.png",
     "static/media/supported.620fcaae.jpeg": "/static/media/supported.620fcaae.jpeg",
     "static/media/teoria1-2.3e7ce253.png": "/static/media/teoria1-2.3e7ce253.png",
@@ -27,7 +28,7 @@
     "static/js/runtime-main.6da9daa8.js",
     "static/css/2.f2512455.chunk.css",
     "static/js/2.7e789b6f.chunk.js",
-    "static/css/main.6228717b.chunk.css",
-    "static/js/main.9c94d37f.chunk.js"
+    "static/css/main.0bf474dd.chunk.css",
+    "static/js/main.6408e189.chunk.js"
   ]
 }
